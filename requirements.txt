@@ -1,0 +1,8 @@
+FastAPI
+SQLAlchemy
+Pydantic
+Uvicorn
+python-dotenv
+email-validator
+pytest
+httpx
